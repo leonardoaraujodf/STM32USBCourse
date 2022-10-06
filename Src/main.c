@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    log_info("Program entrypoint.");
+    log_info("Program entry point.");
 	for(;;);
 }
